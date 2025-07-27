@@ -36,4 +36,4 @@ Al iniciar la aplicación, se despliega un menú con diversas opciones para inte
 ---
 
 ## 🌍 Fuente de datos
-Este sistema se alimenta de la API Gutendex[Gutendex](https://gutendex.com/), que proporciona acceso a un amplio catálogo de libros de dominio público.
+Este sistema se alimenta de la API [Gutendex](https://gutendex.com/), que proporciona acceso a un amplio catálogo de libros de dominio público.
